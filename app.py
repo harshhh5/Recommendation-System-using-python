@@ -67,3 +67,5 @@ if st.button("Get Recommendations"):
                 st.write("No similar TV shows found.")
     else:
         st.warning("Please enter a title.")
+
+print()
